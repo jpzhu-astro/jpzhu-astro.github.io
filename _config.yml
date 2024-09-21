@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr."
+title                    : "Dr. Jin-Ping Zhu"
 title_separator          : "-"
 name                     : &name "Jin-Ping Zhu (朱锦平)"
 description              : &description "personal description"
