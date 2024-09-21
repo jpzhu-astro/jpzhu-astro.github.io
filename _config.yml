@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jin-Ping Zhu/Personal Homepage"
+title                    : "Dr. Jin-Ping Zhu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jin-Ping Zhu (朱锦平)"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jin-Ping Zhu (朱锦平)"
   pronouns         : # example: "he/him"  
-  bio              : " "
+  bio              : "\\"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   uri              : # URL
