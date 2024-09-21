@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Please find my full CV at This Link (Last updated: September 2024).
+
+Employment
 ======
 * OzGrav Postdoctoral Research Fellow, Monash University, 2023-
 
