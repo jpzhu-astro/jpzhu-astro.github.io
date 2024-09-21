@@ -19,8 +19,8 @@ Employment
 Education
 ======
 * Ph.D in Astrophysics, Peking University, 2022  
-  Ph.D thesis: Multimessenger Signals from Compact Object Coalescences and Transients in AGN Disks  
+  Thesis: Multimessenger Signals from Compact Object Coalescences and Transients in AGN Disks  
   Advisors: Prof. Bing Zhang and Prof. Zhuo Li
 * B.S. in Physics, Central China Normal University, 2017  
-  B.S. thesis: A Statistical Study of Superluminous Supernovae Using the Magnetar Engine Model and Implications for their Connection with Gamma-Ray Bursts and Hypernovae  
+  Thesis: A Statistical Study of Superluminous Supernovae Using the Magnetar Engine Model and Implications for their Connection with Gamma-Ray Bursts and Hypernovae  
   Advisor: Prof. Yun-Wei Yu
