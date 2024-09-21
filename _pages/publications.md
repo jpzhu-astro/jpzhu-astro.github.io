@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check at ADS Libary or Google Scholar https://scholar.google.com/citations?user=KaFqyosAAAAJ
-
+Please check at ADS Libary or [Google Scholar](https://scholar.google.com/citations?user=KaFqyosAAAAJ)
 
 #{% if site.author.googlescholar %}
 #  <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
