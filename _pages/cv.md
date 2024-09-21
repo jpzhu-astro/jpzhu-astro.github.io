@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full CV at This Link (Last updated: September 2024).
+Please find my full CV at [This Link](../_data/CV.pdf) (Last updated: September 2024).
 
 Employment
 ======
