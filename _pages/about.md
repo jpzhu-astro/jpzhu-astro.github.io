@@ -1,7 +1,7 @@
 ---
-permalink: /about/
 title: "About me"
 author_profile: true
+permalink: /about/
 redirect_from: 
   - /about/
   - /about.html
