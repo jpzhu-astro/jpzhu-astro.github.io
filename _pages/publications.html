@@ -51,10 +51,15 @@ author_profile: true
       <br>
       {{ paper.authors }}
       <br>
-      {{ paper.journal }} (<a href="{{ paper.arxiv }}">arXiv:{{ paper.arxiv }}</a>)
+      {{ paper.journal }} 
+      {% if paper.arxiv %}
+        (<a href="{{ paper.arxiv }}">arXiv:{{ paper.arxiv }}</a>)
+      {% endif %}
       <br>
       <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-style="small_rectangle"></span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     </li>
   {% endfor %}
+</ol>
+
 </ol>
