@@ -12,7 +12,7 @@ My name is Jin-Ping Zhu (朱锦平). I am an OzGrav postdoctoral research fellow
 Research Interests
 ======
 * Multi-messenger (gravitational waves,  neutrinos, and electromagnetic radiation) astrophysics 
-* Electromagnetic counterparts of gravitational wave sources (kilonovae, short gamma-ray bursts associated with binary neutron mergers and neutron star--black hole mergers, transients assoicated with neutron star--white dwarf mergers)
+* Electromagnetic counterparts of gravitational wave sources (kilonovae, short gamma-ray bursts associated with binary neutron mergers and neutron star--black hole mergers, transients associated with neutron star--white dwarf mergers)
 * Gamma-ray bursts, supernovae, kilonovae, fast radio bursts
 * Compact object coalescences and supernovae embedded in AGN accretion disks
 * Detailed binary evolution and population synthesis simulation
