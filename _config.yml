@@ -12,7 +12,7 @@ title                    : "Dr."
 title_separator          : "-"
 name                     : &name "Jin-Ping Zhu (朱锦平)"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jpzhu-astro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jin-Ping Zhu (朱锦平)"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   uri              : # URL
