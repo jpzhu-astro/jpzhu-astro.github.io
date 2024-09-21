@@ -53,3 +53,39 @@ author_profile: true
     <span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/aa6c27" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
    </li>
 </ol>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Selected Preferred Papers</title>
+</head>
+<body>
+
+<h1>My Selected Preferred Papers</h1>
+<ol reversed id="paper-list"></ol>
+
+<script>
+fetch('papers.json')
+    .then(response => response.json())
+    .then(papers => {
+        const paperList = document.getElementById('paper-list');
+        
+        papers.forEach(paper => {
+            const li = document.createElement('li');
+            li.innerHTML = `
+                <a href="https://ui.adsabs.harvard.edu/abs/${paper.year}ApJ...${paper.volume}...${paper.id}Z/abstract">${paper.title}</a><br>
+                <strong>${paper.authors}</strong><br>
+                ${paper.journal}, Volume ${paper.volume}, Issue ${paper.issue}, id.${paper.id}, ${paper.year} pp, (<a href="https://arxiv.org/abs/${paper.arxiv}">arXiv:${paper.arxiv}</a>)<br>
+                ${paper.highlight ? `<strong>Highlight</strong>: ${paper.highlight}<br>` : ''}
+                <span class="__dimensions_badge_embed__" data-doi="${paper.doi}" data-style="small_rectangle"></span>
+                <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+            `;
+            paperList.appendChild(li);
+        });
+    })
+    .catch(error => console.error('Error loading papers:', error));
+</script>
+
+</body>
+</html>
