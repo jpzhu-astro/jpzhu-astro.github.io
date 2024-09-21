@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an OzGrav postdoctoral research fellow in the School of Physics & Astronomy at Monash University, Australia. 
-
+My name is Jin-Ping Zhu (朱锦平). I am an OzGrav postdoctoral research fellow in the School of Physics & Astronomy at Monash University, Australia. I received my Ph.D degree in Astronomy from Peking University at Beijing in 2022 and my B.S. degree in Physics from Central China Normal University at Wuhan in 2017.
 
 Research Interests
 ======
@@ -19,6 +18,6 @@ Research Interests
 * Detailed binary evolution and population synthesis simulation
 * Testing fundamental physics
 
-For more info
+Contact Me
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+jin-ping.zhu@monash.edu
