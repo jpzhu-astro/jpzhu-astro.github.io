@@ -21,7 +21,7 @@ author_profile: true
       <br>
       {{ paper.authors }}
       <br>
-      {{ paper.journal }} (<a href="https://arxiv.org/abs/{{ paper.arxiv }}">arXiv:{{ paper.arxiv }}</a>)
+      {{ paper.journal }} (<a href="{{ paper.arxiv }}">arXiv:{{ paper.arxiv }}</a>)
       <br>
       {% if paper.highlight %}
         <strong>Highlight</strong>: {{ paper.highlight }}
@@ -53,7 +53,7 @@ author_profile: true
       <br>
       {{ paper.journal }} 
       {% if paper.arxiv %}
-        (<a href="https://arxiv.org/abs/{{ paper.arxiv }}">arXiv:{{ paper.arxiv }}</a>)
+        (<a href="{{ paper.arxiv }}">arXiv:{{ paper.arxiv }}</a>)
       {% endif %}
       <br>
       <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-style="small_rectangle"></span>
