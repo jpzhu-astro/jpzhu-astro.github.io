@@ -12,28 +12,9 @@ author_profile: true
   <li>First-author papers: 392 citations with h-index=11 on <a href="https://ui.adsabs.harvard.edu/public-libraries/EdHwMSxRRl2BoDUnTf_j3Q">ADS Library</a></li>
 </ul>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <p>{{ category[1].title }}</p><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<h1>My Selected Preferred Papers</h1>
+<ol reversed>
+  <li>Third item</li>
+  <li>Second item</li>
+  <li>A Statistical Study of Superluminous Supernovae Using the Magnetar Engine Model and Implications for their Connection with Gamma-Ray Bursts and Hypernovae</li>
+</ol>
