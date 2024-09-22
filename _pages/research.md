@@ -7,25 +7,25 @@ redirect_from:
   - /reserach.html
 ---
 
-# Electromagnetic Signals from Neutron Star Mergers
+## Electromagnetic Signals from Neutron Star Mergers
 
 
 To be constructed
 
-# Neutron Star-Black Hole Gravitational-wave Events
+## Neutron Star-Black Hole Gravitational-wave Events
 
 
 To be constructed
 
-# Multimessenger Signals from Compact Object Coalescences and Supernovae in Active Galactic Nuclues Accretion Disks
+## Multimessenger Signals from Compact Object Coalescences and Supernovae in Active Galactic Nuclues Accretion Disks
 
 
 To be constructed
 
-# Supernovaeluminous Supernovae, Gamma-Ray Bursts, Broad-lined Type Ic Supernovae, and Fast Blue Optical Trasients Powered by Magnetar Engines and Their Unified Origin
+## Supernovaeluminous Supernovae, Gamma-Ray Bursts, Broad-lined Type Ic Supernovae, and Fast Blue Optical Trasients Powered by Magnetar Engines and Their Unified Origin
 
 To be constructed
 
-# Testing Fundamental Physics
+## Testing Fundamental Physics
 
 To be constructed
