@@ -14,7 +14,7 @@ Please find my full CV at [This Link](./CV.pdf) (Last updated: September 2024).
 Employment
 ======
 * OzGrav Postdoctoral Research Fellow, Monash University, 2023-    
-  Advior: Prof. Ilya Mandel
+  Co-advisor: Prof. Ilya Mandel
 
 Education
 ======
