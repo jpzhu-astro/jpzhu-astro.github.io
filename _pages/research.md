@@ -14,8 +14,8 @@ redirect_from:
 Binary neutron stars (BNS) and black hole--neutron star (BHNS) mergers are believed to be progenitors of short gamma-ray bursts and kilonovae. We developed a detailed viewing-angle-dependent model of BHNS kilonovae with two viewing angles defined by the latitudinal and longitudinal angles. We used our BHNS kilonova model to evaluate the detectability of electromagnetic counterparts in connection with GW detections, GW-triggered target-of-opportunity, and serendipitous observations. The relevant exploration to BNS kilonovae have been extended to BNS kilonovae and afterglows.
 
 Reference:
-(1) [Zhu et al. 2020, ApJ, 897, 20]([网址](https://ui.adsabs.harvard.edu/abs/2020ApJ...897...20Z/abstract))
-
+(1) [Zhu et al. 2020, ApJ, 897, 20](https://ui.adsabs.harvard.edu/abs/2020ApJ...897...20Z/abstract)
+(2) [Zhu et al. 2021, ApJ, 917, 24](https://ui.adsabs.harvard.edu/abs/2021ApJ...917...24Z/abstract)
 
 
 ## Gravitational-wave Events and Their Formation Channel
