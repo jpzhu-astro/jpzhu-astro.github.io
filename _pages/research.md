@@ -9,10 +9,9 @@ redirect_from:
 
 ## Electromagnetic Signals from Neutron Star Mergers
 
+Binary neutron stars (BNS) and black hole--neutron star (BHNS) mergers are believed to be progenitors of short gamma-ray bursts and kilonovae. We developed a detailed viewing-angle-dependent model of BHNS kilonovae with two viewing angles defined by the latitudinal and longitudinal angles. We used our BHNS kilonova model to evaluate the detectability of electromagnetic counterparts in connection with GW detections, GW-triggered target-of-opportunity, and serendipitous observations. The relevant exploration to BNS kilonovae have been extended to BNS kilonovae and afterglows.
 
-To be constructed
-
-## Neutron Star-Black Hole Gravitational-wave Events
+## Gravitational-wave Events and Their Formation Channel
 
 
 To be constructed
@@ -30,4 +29,4 @@ Observations have revealed that the lightcurves and spectra of SLSNe are diverse
 
 ## Testing Fundamental Physics
 
-To be constructed
+The “Breakthrough Starshot” program is planning to send transrelativistic probes to travel to nearby stellar systems within decades. We improved provided simulations to solve the probe's motion in flight by comparing the positions of three or more point sources observed in the Earth’s rest frame and in the probe’s comoving frame. Our results showed high precision in the moving direction and the velocity of the probe. This work confirmed the feasibility of solving the motion of future transrelativistic probes in theory. We also introduced a method to constrain photon mass using the light aberration effect. Besides, we explored different methods to test the special relativity and constrain photon mass using the Doppler effect. 
