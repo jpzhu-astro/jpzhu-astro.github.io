@@ -9,6 +9,8 @@ redirect_from:
 
 ## Electromagnetic Signals from Neutron Star Mergers
 
+![示例图片](Figure/Figure_Cartoon_BHNS.pdf)
+
 Binary neutron stars (BNS) and black hole--neutron star (BHNS) mergers are believed to be progenitors of short gamma-ray bursts and kilonovae. We developed a detailed viewing-angle-dependent model of BHNS kilonovae with two viewing angles defined by the latitudinal and longitudinal angles. We used our BHNS kilonova model to evaluate the detectability of electromagnetic counterparts in connection with GW detections, GW-triggered target-of-opportunity, and serendipitous observations. The relevant exploration to BNS kilonovae have been extended to BNS kilonovae and afterglows.
 
 ## Gravitational-wave Events and Their Formation Channel
