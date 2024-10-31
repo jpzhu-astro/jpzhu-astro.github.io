@@ -9,21 +9,13 @@ redirect_from:
 
 ## Electromagnetic Signals from Neutron Star Mergers
 
-<img src="Figure/Figure_Cartoon_BHNS.pdf" alt="404" width="500" />
-
-<style>
-    img {
-        max-width: 50%;
-        height: auto;
-    }
-</style>
-<img src="Figure/Figure_Cartoon_BHNS.pdf" alt="示例图片" />
+![示例图片](Figure/Figure_Cartoon_BHNS.pdf)
 
 Binary neutron stars (BNS) and black hole--neutron star (BHNS) mergers are believed to be progenitors of short gamma-ray bursts and kilonovae. We developed a detailed viewing-angle-dependent model of BHNS kilonovae with two viewing angles defined by the latitudinal and longitudinal angles. We used our BHNS kilonova model to evaluate the detectability of electromagnetic counterparts in connection with GW detections, GW-triggered target-of-opportunity, and serendipitous observations. The relevant exploration to BNS kilonovae have been extended to BNS kilonovae and afterglows.
 
 ## Gravitational-wave Events and Their Formation Channel
 
-<img src="Figure/Figure_Cartoon_AGN.pdf" alt="404"/>
+![示例图片](Figure/Figure_Cartoon_AGN.pdf)
 
 I am deeply interested in the properties and formation mechanisms of gravitational-wave (GW) NS mergers (espically for BHNS mergers), particularly in the context of GW observations, where we have investigated both the characteristics of individual BHNS events and their broader population properties. Recently, we employed population synthesis simulations with COMPAS to simulate the event rate densities and mass distribution of mass-gap BHNS mergers, finding consistency with observed values based on the discovery of GW230529. We also suggested that future observable kilonovae will be from mass-gap BHNS mergers. Additionally, we used MESA to examine unique formation scenarios for BHNS mergers, such as super-Eddington accretion during mass transfer with helium star companions, and explore mechanisms for enhancing the spin of BHs in these binaries, thereby increasing the likelihood of bright electromagnetic signals during mergers.
 
