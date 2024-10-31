@@ -13,13 +13,11 @@ Binary neutron stars (BNS) and black hole--neutron star (BHNS) mergers are belie
 
 ## Gravitational-wave Events and Their Formation Channel
 
-
 To be constructed
 
 ## Multimessenger Signals from Compact Object Coalescences and Supernovae in Active Galactic Nuclues Accretion Disks
 
-
-To be constructed
+AGN disks are believed to harbor a large population of stars and compact objects, indicating that SN and compact object coalescences frequently occurring within the disk atmosphere. The potential association between the binary BH GW190521 and an EM flare in an AGN has exploded widespread interest in catastrophic explosions occurring in AGN disks. Due to the dense environment around these AGN catastrophic explosions, their EM signals should be unique. Since BNS and BHNS mergers can occur in AGN disks, we proposed for the first time that launched GRB jets could be choked by the disk, powering a hot cocoon. The cocoon and the ejecta would break out from the disk, powering two shock breakout signals. Since white dwarfs and their binaries are predicted to exist in AGN disks, we predicted AGN thermonuclear explosion (accretion-induced collapse resuling in a millisecond magnetar) can power ejecta (magnetar-driven) shock breakouts, shock cooling signals, and slow-rising, relatively dim SNe Ia (magnetar-powered transients). Furthermore, we also showed that the choked GRB jets in AGN disks, nonrelastivistic jets from binary BH mergers in AGN disks, and the interaction between shock-accelerated cosmic rays and disk materials after the shock breakouts can effectively produce detectable TeV--PeV neutrinos without production of high-energy gamma-rays. We explored the detectability of neutrino emissions from catastrophic explosions by IceCube and predicted that AGN catastrophic explosions can be potential hidden sources to significantly contribute to the diffuse neutrino background.
 
 ## Magnetar-powered SNe and Their Binary Origins.
 
