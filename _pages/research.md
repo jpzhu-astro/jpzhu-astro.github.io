@@ -13,7 +13,7 @@ Binary neutron stars (BNS) and black hole--neutron star (BHNS) mergers are belie
 
 ## Gravitational-wave Events and Their Formation Channel
 
-To be constructed
+I am deeply interested in the properties and formation mechanisms of gravitational-wave (GW) NS mergers (espically for BHNS mergers), particularly in the context of GW observations, where we have investigated both the characteristics of individual BHNS events and their broader population properties. Recently, we employed population synthesis simulations with COMPAS to simulate the event rate densities and mass distribution of mass-gap BHNS mergers, finding consistency with observed values based on the discovery of GW230529. We also suggested that future observable kilonovae will be from mass-gap BHNS mergers. Additionally, we used MESA to examine unique formation scenarios for BHNS mergers, such as super-Eddington accretion during mass transfer with helium star companions, and explore mechanisms for enhancing the spin of BHs in these binaries, thereby increasing the likelihood of bright electromagnetic signals during mergers.
 
 ## Multimessenger Signals from Compact Object Coalescences and Supernovae in Active Galactic Nuclues Accretion Disks
 
