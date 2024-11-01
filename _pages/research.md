@@ -22,7 +22,7 @@ References:
 
 ## Gravitational-wave Events and Their Formation Channel
 
-![示例图片](Figure/Figure_Cartoon_AGN.pdf)
+![示例图片](Figure/Figure_PopulationBHandNSMass.pdf)
 
 I am deeply interested in the properties and formation mechanisms of gravitational-wave (GW) NS mergers (espically for BHNS mergers), particularly in the context of GW observations, where we have investigated both the characteristics of individual BHNS events and their broader population properties. Recently, we employed population synthesis simulations with COMPAS to simulate the event rate densities and mass distribution of mass-gap BHNS mergers, finding consistency with observed values based on the discovery of GW230529. We also suggested that future observable kilonovae will be from mass-gap BHNS mergers. Additionally, we used MESA to examine unique formation scenarios for BHNS mergers, such as super-Eddington accretion during mass transfer with helium star companions, and explore mechanisms for enhancing the spin of BHs in these binaries, thereby increasing the likelihood of bright electromagnetic signals during mergers.
 
@@ -36,7 +36,7 @@ References:
 
 ## Multimessenger Signals from Compact Object Coalescences and Supernovae in Active Galactic Nuclues Accretion Disks
 
-![示例图片](Figure/Figure_PopulationBHandNSMass.pdf)
+![示例图片](Figure/Figure_Cartoon_AGN.pdf)
 
 AGN disks are believed to harbor a large population of stars and compact objects, indicating that SN and compact object coalescences frequently occurring within the disk atmosphere. The potential association between the binary BH GW190521 and an EM flare in an AGN has exploded widespread interest in catastrophic explosions occurring in AGN disks. Due to the dense environment around these AGN catastrophic explosions, their EM signals should be unique. Since BNS and BHNS mergers can occur in AGN disks, we proposed for the first time that launched GRB jets could be choked by the disk, powering a hot cocoon. The cocoon and the ejecta would break out from the disk, powering two shock breakout signals. Since white dwarfs and their binaries are predicted to exist in AGN disks, we predicted AGN thermonuclear explosion (accretion-induced collapse resuling in a millisecond magnetar) can power ejecta (magnetar-driven) shock breakouts, shock cooling signals, and slow-rising, relatively dim SNe Ia (magnetar-powered transients). Furthermore, we also showed that the choked GRB jets in AGN disks, nonrelastivistic jets from binary BH mergers in AGN disks, and the interaction between shock-accelerated cosmic rays and disk materials after the shock breakouts can effectively produce detectable TeV--PeV neutrinos without production of high-energy gamma-rays. We explored the detectability of neutrino emissions from catastrophic explosions by IceCube and predicted that AGN catastrophic explosions can be potential hidden sources to significantly contribute to the diffuse neutrino background.
 
