@@ -20,4 +20,4 @@ Research Interests
 
 Contact Me
 ------
-jin-ping.zhu@monash.edu
+zhujp@pku.edu.cn, jin-ping.zhu@monash.edu
