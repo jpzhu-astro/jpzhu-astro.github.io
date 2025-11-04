@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jin-Ping Zhu (朱锦平). I am an OzGrav postdoctoral research fellow in the School of Physics & Astronomy at Monash University, Australia. I received my Ph.D degree in Astronomy from Peking University at Beijing in 2022 and my B.S. degree in Physics from Central China Normal University at Wuhan in 2017.
+My name is Jin-Ping Zhu (朱锦平). I am a Global STEM Scholar Postdoctoral Fellow at Hong Kong Institute for Astronomy and Astrophysics and the Department of Physics, the University of Hong Kong. Previously, I was an OzGrav Postdoctoral Research Fellow in the School of Physics and Astronomy at Monash University. I received my Ph.D. in Astronomy from Peking University in 2022 and my B.S. in Physics from Central China Normal University in 2017.
 
 Research Interests
 ======
@@ -20,4 +20,4 @@ Research Interests
 
 Contact Me
 ------
-zhujp@pku.edu.cn, jin-ping.zhu@monash.edu
+jpzhu.astro@gmail.com
