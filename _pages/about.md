@@ -17,7 +17,3 @@ Research Interests
 * Compact object coalescences and supernovae embedded in AGN accretion disks
 * Detailed binary evolution and population synthesis simulation
 * Testing fundamental physics
-
-Contact Me
-------
-jpzhu.astro@gmail.com
